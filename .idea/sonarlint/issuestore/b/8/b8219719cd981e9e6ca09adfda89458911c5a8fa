@@ -1,0 +1,12 @@
+
+v
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "bfr".(Ì‰‹øÿÿÿÿ
+Z
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(ø×†é
+;
+java:S1659"%Declare "nombre2" on a separate line.(„®à
+@	java:S106"+Replace this use of System.out by a logger.(‚¨ïì
+@	java:S106"+Replace this use of System.out by a logger.(œÁŠ¼
+E	java:S106"+Replace this use of System.out by a logger.(²¾Èïÿÿÿÿÿ
+@	java:S106%"+Replace this use of System.out by a logger.(‘´ë›
+E	java:S106("+Replace this use of System.out by a logger.(¡¶í”ÿÿÿÿÿ

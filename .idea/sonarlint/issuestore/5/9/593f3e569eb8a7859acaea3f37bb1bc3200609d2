@@ -1,0 +1,13 @@
+
+P
+java:S1141$"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+X
+java:S2184-"BCast one of the operands of this addition operation to a "double".(ÿüŞ—
+`
+java:S2184/"ECast one of the operands of this subtraction operation to a "double".(üìÙûÿÿÿÿ
+c
+java:S21841"HCast one of the operands of this multiplication operation to a "double".(¶™çêüÿÿÿÿ
+N
+java:S35183"8Make sure "n2" can't be zero before doing this division.(©®îŠ
+E	java:S106"+Replace this use of System.out by a logger.(ò‹Í×ûÿÿÿÿ
+E	java:S106@"+Replace this use of System.err by a logger.(´‚ÄÓùÿÿÿÿ
